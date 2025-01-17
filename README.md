@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋I'm Vaishali Singh!
+### AI Enthusiast | Data Scientist | Java Developer
 
 <!--
 **vaishalis27/Vaishalis27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
