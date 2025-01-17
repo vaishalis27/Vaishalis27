@@ -16,7 +16,7 @@
 
 I am passionate about leveraging AI, data science, and Java development to solve real-world challenges. With hands-on experience as an SAP Hybris Developer at Wipro Ltd and expertise in generative adversarial networks, I strive to deliver impactful solutions.
 
-####🛠 Skills
+#### 🛠 Skills
 
 - Programming: Python, Java, SQL
 - AI/ML Tools: TensorFlow, PyTorch, Scikit-Learn
@@ -26,7 +26,7 @@ I am passionate about leveraging AI, data science, and Java development to solve
 - Natural Language Processing (RNNs, LSTMs, Transformers)
 - Other: ServiceNow Administration, Statistical Modelling, Data Visualisation
 
-####📂 Featured Projects
+#### 📂 Featured Projects
 
 - Adapting Generative Adversarial Networks: MNIST Dataset & Celeb Dataset
   Explores the potential of GANs to act as classifiers using the MNIST dataset.
@@ -36,7 +36,7 @@ I am passionate about leveraging AI, data science, and Java development to solve
   Built a convolutional neural network to classify images from the CIFAR-10 dataset.
   (Python, PyTorch, Matplotlib)
 
-####📜Experience & Certifications
+#### 📜Experience & Certifications
  
 - Java Developer (SAP Hybris) – Wipro Ltd
 - Data Science Certification – IIIT Bangalore
