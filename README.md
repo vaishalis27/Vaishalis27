@@ -28,9 +28,9 @@ I am passionate about leveraging AI, data science, and Java development to solve
 
 📂 Featured Projects
 
-Adapting Generative Adversarial Networks: MNIST Dataset & Celeb Dataset
-Explores the potential of GANs to act as classifiers using the MNIST dataset.
-(Python, TensorFlow, Jupyter Notebook)
+-Adapting Generative Adversarial Networks: MNIST Dataset & Celeb Dataset
+ Explores the potential of GANs to act as classifiers using the MNIST dataset.
+ (Python, TensorFlow, Jupyter Notebook)
 
 Deep Learning for Image Classification
 Built a convolutional neural network to classify images from the CIFAR-10 dataset.
