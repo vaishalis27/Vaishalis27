@@ -1,10 +1,7 @@
 # Hi there 👋I'm Vaishali Singh!
 #### AI Enthusiast | Data Scientist | Java Developer
 
-<!--
-**vaishalis27/Vaishalis27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 🌟 About Me
 
 I am passionate about leveraging AI, data science, and Java development to solve real-world challenges. With hands-on experience as an SAP Hybris Developer at Wipro Ltd and expertise in generative adversarial networks, I strive to deliver impactful solutions.
