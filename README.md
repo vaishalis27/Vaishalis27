@@ -18,13 +18,13 @@ I am passionate about leveraging AI, data science, and Java development to solve
 
 🛠 Skills
 
-Programming: Python, Java, SQL
-AI/ML Tools: TensorFlow, PyTorch, Scikit-Learn
-Deep Learning Expertise:
-Generative AI (GANs, VAEs)
-Image and Video Processing (CNNs, Transfer Learning)
-Natural Language Processing (RNNs, LSTMs, Transformers)
-Other: ServiceNow Administration, Statistical Modelling, Data Visualisation
+- Programming: Python, Java, SQL
+- AI/ML Tools: TensorFlow, PyTorch, Scikit-Learn
+- Deep Learning Expertise:
+- Generative AI (GANs, VAEs)
+- Image and Video Processing (CNNs, Transfer Learning)
+- Natural Language Processing (RNNs, LSTMs, Transformers)
+- Other: ServiceNow Administration, Statistical Modelling, Data Visualisation
 
 📂 Featured Projects
 
