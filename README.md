@@ -12,7 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-####🌟 About Me
+#### 🌟 About Me
 
 I am passionate about leveraging AI, data science, and Java development to solve real-world challenges. With hands-on experience as an SAP Hybris Developer at Wipro Ltd and expertise in generative adversarial networks, I strive to deliver impactful solutions.
 
@@ -44,6 +44,6 @@ I am passionate about leveraging AI, data science, and Java development to solve
 - ServiceNow Administration (CSA) – Credential ID: 23491706
 - Master’s in Artificial Intelligence
 
-📫 Connect with Me
+#### 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/vaishali-singh-3a663b154/
 - email : 00vaishalisingh00@gmail.com
