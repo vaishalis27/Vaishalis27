@@ -28,22 +28,22 @@ I am passionate about leveraging AI, data science, and Java development to solve
 
 📂 Featured Projects
 
--Adapting Generative Adversarial Networks: MNIST Dataset & Celeb Dataset
- Explores the potential of GANs to act as classifiers using the MNIST dataset.
- (Python, TensorFlow, Jupyter Notebook)
+- Adapting Generative Adversarial Networks: MNIST Dataset & Celeb Dataset
+  Explores the potential of GANs to act as classifiers using the MNIST dataset.
+  (Python, TensorFlow, Jupyter Notebook)
 
-Deep Learning for Image Classification
-Built a convolutional neural network to classify images from the CIFAR-10 dataset.
-(Python, PyTorch, Matplotlib)
+- Deep Learning for Image Classification
+  Built a convolutional neural network to classify images from the CIFAR-10 dataset.
+  (Python, PyTorch, Matplotlib)
 
 📜Experience & Certifications
  
-Java Developer (SAP Hybris) – Wipro Ltd
-Data Science Certification – IIIT Bangalore
-NVIDIA: Disaster Risk Monitoring Using Satellite Imagery – Credential ID: TPtajwPPQ9qVBOkFJ5pVhg
-ServiceNow Administration (CSA) – Credential ID: 23491706
-Master’s in Artificial Intelligence
+- Java Developer (SAP Hybris) – Wipro Ltd
+- Data Science Certification – IIIT Bangalore
+- NVIDIA: Disaster Risk Monitoring Using Satellite Imagery – Credential ID: TPtajwPPQ9qVBOkFJ5pVhg
+- ServiceNow Administration (CSA) – Credential ID: 23491706
+- Master’s in Artificial Intelligence
 
 📫 Connect with Me
-LinkedIn: https://www.linkedin.com/in/vaishali-singh-3a663b154/
-Email : 00vaishalisingh00@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vaishali-singh-3a663b154/
+- email : 00vaishalisingh00@gmail.com
