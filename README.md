@@ -1,5 +1,5 @@
 # Hi there 👋I'm Vaishali Singh!
-#### AI Enthusiast | Data Scientist | Java Developer
+#### AI Enthusiast | Data Scientist | Python Developer
 
 #### 🌟 About Me
 
