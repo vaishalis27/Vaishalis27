@@ -27,11 +27,12 @@ I am passionate about leveraging AI, data science, and Machine Learning to solve
 
 #### 📜Experience & Certifications
  
-- Java Developer (SAP Hybris) – Wipro Ltd
+
 - Data Science Certification – IIIT Bangalore
 - NVIDIA: Disaster Risk Monitoring Using Satellite Imagery – Credential ID: TPtajwPPQ9qVBOkFJ5pVhg
 - ServiceNow Administration (CSA) – Credential ID: 23491706
 - Master’s in Artificial Intelligence
+- Java Developer (SAP Hybris) – Wipro Ltd
 
 #### 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/vaishali-singh-3a663b154/
