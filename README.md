@@ -39,21 +39,10 @@
   <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="Supabase" title="Supabase – Open source Firebase alternative" width="50" height="50" style="margin: 10px;"/>
 </div>
 
-<style>
-@keyframes bounce {
-  0%, 100% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(-10px);
-  }
-}
-</style>
-
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vaishalis27&theme=github-compact" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishalis27&theme=github-compact" alt="Contribution Graph"/>
 </p>
 
 <p align="center">
@@ -67,7 +56,7 @@
 ### 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vaishalis27/Vaishalis27/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---
