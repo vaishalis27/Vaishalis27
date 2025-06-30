@@ -54,44 +54,20 @@
 
 ### 📂 Featured Projects
 
-| Project                                 | Description                                                                                       | Tech Stack                          |
-| --------------------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| 🧬 **Adapting GANs for Classification** | Modified StarGAN for multi-attribute classification (CelebA, MNIST). Achieved **F1 score: 0.83**. | PyTorch, GANs                       |
-| 🛰 **Disaster Risk Monitoring**         | Deployed flood detection models on Sentinel-1 satellite data using NVIDIA Triton.                 | TensorRT, TAO Toolkit, DALI         |
-| 🔍 **Factual Conceptual Search System** | Retrieval-Augmented Generation app using LangChain and OpenAI with async document parsing.        | FastAPI, FAISS, LangChain           |
-| 🚛 **AI Transport Management System**   | Real-time fleet tracking, predictive maintenance, and financial dashboards.                       | React, TypeScript, FastAPI, JWT, ML |
+| Project                                                                                                                 | Description                                                                                       | Tech Stack                  | Demo                                                |
+| ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------------------- | --------------------------------------------------- |
+| 🧬 **Adapting GANs for Classification**                                                                                 | Modified StarGAN for multi-attribute classification (CelebA, MNIST). Achieved **F1 score: 0.83**. | PyTorch, GANs               | —                                                   |
+| 🛰 **Disaster Risk Monitoring**                                                                                         | Deployed flood detection models on Sentinel-1 satellite data using NVIDIA Triton.                 | TensorRT, TAO Toolkit, DALI | —                                                   |
+| 🔍 **Factual Conceptual Search System**                                                                                 | Retrieval-Augmented Generation app using LangChain and OpenAI with async document parsing.        | FastAPI, FAISS, LangChain   | [Live Demo](https://factual-search.vaishalis27.dev) |
+| \$1![Project GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)<br>[Live Demo](https://varuatransport.in) |                                                                                                   |                             |                                                     |
 
 ---
 
 ### 🏆 Certifications & Experience
 
-* 🎓 MSc in Artificial Intelligence – *Queen Mary University of London*
-* 📜 Data Science Certification – *IIIT Bangalore*
-* 📡 NVIDIA Satellite Disaster Monitoring – *Credential ID: TPtajwPPQ9qVBOkFJ5pVhg*
-* 🧾 Certified ServiceNow Administrator (CSA) – *ID: 23491706*
-* 💼 Java Developer (SAP Hybris) – *Wipro Ltd*
-* 🧑‍💻 Full-Stack AI Developer (Freelance) – *Varua Transport Pvt. Ltd.*
+[![MSc in AI](https://img.shields.io/badge/MSc_AI-QMUL-blueviolet?style=for-the-badge)](https://www.qmul.ac.uk/)
+[![IIIT Data Science](https://img.shields.io/badge/Data_Science-IIIT_Bangalore-blue?style=for-the-badge)](https://www.iiitb.ac.in/)
+[![NVIDIA Certified](https://img.shields.io/badge/NVIDIA-Disaster_Monitoring-green?style=for-the-badge)](https://www.nvidia.com/en-us/training/)
+[![ServiceNow CSA](https://img.shields.io/badge/ServiceNow-CSA-orange?style=for-the-badge)](https://www.servicenow.com/)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishalis27&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishalis27&layout=compact&theme=radical" width="330"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vaishalis27&theme=radical&row=1&column=6" width="100%" />
-</p>
-
----
-
-### 📫 Let’s Connect!
-
-* 🌐 [LinkedIn](https://www.linkedin.com/in/vaishali-singh-3a663b154/)
-* 📧 Email: [00vaishalisingh00@gmail.com](mailto:00vaishalisingh00@gmail.com)
-
----
-
-> ✨ *“AI isn’t just about automation — it’s about augmentation. Let’s build the future together.”*
+\$1
