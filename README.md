@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF4B2B&center=true&vCenter=true&width=1000&lines=👋+Hi%2C+I'm+Vaishali+Singh!;AI+Engineer+%7C+Python+Developer+%7C+ML+Specialist;Building+impactful+AI-powered+systems." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Vaishali+Singh!;AI+Engineer+%7C+Python+Developer+%7C+Data+Scientist;Let%E2%80%99s+build+impactful+AI+products+together." alt="Animated Heading" />
 </p>
 
 <p align="center">
@@ -12,37 +12,84 @@
 
 ---
 
-### 🎬 Featured Projects (Interactive)
+### 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.varuatransport.in">
-        <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
-      </a><br>
-      <strong>AI Transport Management System</strong><br>
-      <sub>Fleet tracking, predictive maintenance, dashboards</sub><br>
-      <sub><b>Tech:</b> React, FastAPI, TypeScript, ML</sub><br>
-      🔗 <a href="https://www.varuatransport.in">Live Demo</a> • <a href="https://github.com/Vaishalis27/transport-management-system">GitHub</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Vaishalis27/factual-conceptual-search">
-        <img src="https://raw.githubusercontent.com/Vaishalis27/factual-conceptual-search/main/preview.png" width="300"/>
-      </a><br>
-      <strong>Factual Conceptual Search</strong><br>
-      <sub>RAG app with audio Q&A & LangChain</sub><br>
-      <sub><b>Tech:</b> FastAPI, LangChain, FAISS</sub><br>
-      🔗 <a href="https://github.com/Vaishalis27/factual-conceptual-search">GitHub</a>
-    </td>
-  </tr>
-</table>
+<div align="center" style="background: linear-gradient(to right, #1e3c72, #2a5298); padding: 20px; border-radius: 12px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python - Versatile programming language" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java - Enterprise backend development" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript - JavaScript with types" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React.js - Frontend framework" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow - Deep learning framework" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch - Neural networks" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git - Version Control" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI – Python APIs" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot – Java Microservices" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="Supabase" title="Supabase – Firebase Alternative" width="50" height="50" style="margin: 10px;"/>
+</div>
 
 ---
 
-### 📽️ Project Demo Videos
+### 📂 Featured Projects
 
-- 🎥 **AI Transport Management System** → [Watch Demo](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- 🎥 **Factual Conceptual Search** → [Watch Demo](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+| Project | Description | Tech Stack | Demo |
+|--------|-------------|------------|------|
+| 🚛 **AI Transport Management System** | Real-time fleet tracking, predictive maintenance, and financial dashboards. | React, TypeScript, FastAPI, JWT, ML | ![GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)<br>[Live Demo](https://www.varuatransport.in) \| [GitHub](https://github.com/Vaishalis27/transport-management-system) |
+| 📖 **Factual Conceptual Search** | RAG system for semantic QA with audio outputs and document embeddings. | FastAPI, LangChain, FAISS | [GitHub](https://github.com/Vaishalis27/factual-conceptual-search) |
+| 🛰 **Disaster Risk Monitoring** | Flood detection models deployed with NVIDIA Triton and satellite data. | TensorRT, TAO Toolkit, DALI | [GitHub](https://github.com/Vaishalis27/disaster-monitoring) |
+| 🧬 **Adapting GANs for Classification** | Modified StarGAN for facial attribute classification (F1: 0.83). | PyTorch, GANs | [GitHub](https://github.com/Vaishalis27/adapting-gans-classification) |
+
+---
+
+### 💼 Certifications
+
+- AI Genius Challenge – Microsoft Azure (2025)
+- AI & Document Intelligence – Microsoft (2024)
+- Machine Learning with Python – Topcoder Academy (2024)
+- Deep Learning – IIIT Bangalore (2023)
+- Java J2EE – Wipro Ltd
+
+---
+
+### 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vaishalis27&theme=github-compact" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaishalis27&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishalis27&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishalis27&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vaishalis27/Vaishalis27/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
+### 💬 Testimonials
+
+> *“Vaishali consistently demonstrated advanced problem-solving, ownership, and delivery quality while at Wipro.”*  
+> — Subash M.S., Senior Manager, Wipro Ltd
+
+> *“Her ability to integrate AI-powered features in transport systems added real-time intelligence to our daily operations.”*  
+> — Varua Transport Pvt. Ltd
+
+---
+
+### 🧲 Open to Work
+
+I'm currently open to full-time roles as:
+- **AI/ML Engineer**
+- **Full Stack Python Developer**
+- **R&D Engineer in Generative AI**
+
+📫 Contact: `00vaishalisingh00@gmail.com`
 
 ---
 
@@ -58,63 +105,4 @@
   <a href="https://github.com/Vaishalis27">
     <img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats & Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishalis27&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=Vaishalis27&theme=radical&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaishalis27&theme=vue" width="90%"/>
-</p>
-
----
-
-### 🏆 Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Genius%20Challenge%202025-Microsoft-0078D4?style=for-the-badge&logo=microsoft"/>
-  <img src="https://img.shields.io/badge/Azure%20AI%20Skills%20Challenge-2024-008AD7?style=for-the-badge&logo=azure-devops"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning%20with%20Python-Topcoder-000000?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-IIIT%20Bangalore-1E88E5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Java%20J2EE-Wipro%20Ltd-ED1C24?style=for-the-badge&logo=java"/>
-</p>
-
----
-
-### 🌟 Testimonials & Achievements
-
-> "Vaishali consistently delivered outstanding backend solutions with AI integration that drove measurable improvements in our operations."  
-> — Subash M.S., Senior Manager, Wipro Ltd.
-
-> "Her work on the Factual Conceptual Search system was innovative and production-grade from day one."  
-> — Client, Freelance AI Project
-
----
-
-### 💼 Open to Work
-
-I am currently exploring **full-time roles** in **AI Engineering**, **Backend Development**, or **Machine Learning Engineering** — remote or hybrid opportunities preferred.
-
-📬 Reach me at **00vaishalisingh00@gmail.com** or [LinkedIn](https://www.linkedin.com/in/vaishali-singh-3a663b154/)
-
----
-
-### 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
-### 🦶 Footer
-
-<p align="center">
-  <sub>Made with ❤️ by Vaishali Singh | Let's build something impactful together!</sub>
 </p>
