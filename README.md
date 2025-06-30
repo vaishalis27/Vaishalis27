@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff416c,ff4b2b&height=200&section=header&text=Vaishali%20Singh%20Portfolio&fontSize=38&fontAlignY=40&desc=AI%20Enthusiast%20%7C%20Python%20Developer%20%7C%20ML%20Engineer&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=d4a5ff&height=200&section=header&text=Vaishali%20Singh%20Portfolio&fontSize=38&fontAlignY=40&desc=AI%20Enthusiast%20%7C%20Python%20Developer%20%7C%20ML%20Engineer&descSize=20"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Vaishali+Singh!;AI+Engineer+%7C+Python+Developer+%7C+Data+Scientist;Let%E2%80%99s+build+impactful+AI+products+together." alt="Animated Heading" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF4B2B&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Vaishali+Singh!;AI+Engineer+%7C+Python+Developer+%7C+Data+Scientist;Building+impactful+AI-powered+systems." alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vaishalis27&theme=github-compact" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishalis27&theme=react-dark" alt="Contribution Graph"/>
 </p>
 
 <p align="center">
@@ -69,6 +69,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vaishalis27/Vaishalis27/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
+
 
 ---
 
