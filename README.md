@@ -53,13 +53,13 @@
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishalis27&theme=react-dark" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishalis27&theme=radical" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishalis27&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishalis27&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishalis27&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaishalis27&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishalis27&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishalis27&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -67,10 +67,8 @@
 ### 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
-
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
-
 
 ---
 
@@ -82,7 +80,6 @@
 > *“Her ability to integrate AI-powered features in transport systems added real-time intelligence to our daily operations.”*  
 > — Varua Transport Pvt. Ltd
 
----
 
 ### 🧲 Open to Work
 
